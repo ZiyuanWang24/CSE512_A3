@@ -4,3 +4,5 @@ data link:
 2. Living cost: https://advisorsmith.com/data/coli/
 3. Percent sunshine: https://www.kaggle.com/datasets/thedevastator/annual-percent-of-possible-sunshine-by-us-city?resource=download
 4. Air quality: https://www.epa.gov/air-trends/air-quality-cities-and-counties
+5. US Education rating: https://nces.ed.gov/datalab/onlinecodebook/
+6. US House-Budget: https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
