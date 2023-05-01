@@ -6,3 +6,4 @@ data link:
 4. Air quality: https://www.epa.gov/air-trends/air-quality-cities-and-counties
 5. US Education rating: https://nces.ed.gov/datalab/onlinecodebook/
 6. US House-Budget: https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
+7. Us city population, density, military, incorparated:https://simplemaps.com/data/us-cities
